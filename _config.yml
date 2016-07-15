@@ -10,6 +10,7 @@ title: SCIS - You Know
 email: info@scis.io
 description: > # this means to ignore newlines until "baseurl:"
   A company which helps to turn your passions into ideas into business
+  https://en.wiktionary.org/wiki/scis
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://visscire.io" # the base hostname & protocol for your site
 twitter_username: scisio
